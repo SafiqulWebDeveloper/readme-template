@@ -98,7 +98,7 @@ http://www.studywithanis.com
 ### Image syntax
 <!-- ![Profile](../myImages/ShawonFacWhit.jpg) -->
 
-<img src="../myImages/ShawonFacWhit.jpg" width=" 300" height="300" title="Profile img">  
+<img src="../myImages/ShawonFacWhit.JPG" width=" 300" height="300" title="Profile img">  
 
 😃
 
